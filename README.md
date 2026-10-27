@@ -5,6 +5,50 @@
 
 ---
 
+## 📸 Application Screenshots
+
+### 1. Command Dashboard & Geospatial Leaflet Map
+Real-time KPI metrics, jurisdictional case load, 5-month recovery trends, and interactive OpenStreetMap incident hotspot mapping.
+![Command Dashboard](screenshots/dashboard.png)
+
+---
+
+### 2. Missing Persons Case Directory & Filters
+Comprehensive filterable register supporting category, status, priority, and age-group breakdowns.
+![Cases Directory](screenshots/cases_directory.png)
+
+---
+
+### 3. AI Scenario Builder & Forensic Reconstruction
+Dual-column workspace comparing the immutable primary FIR with versioned working scenarios, claim status classification, and source citations.
+![AI Scenario Builder](screenshots/scenario_builder.png)
+
+---
+
+### 4. Explainable Pattern Discovery Engine
+Correlates inter-district cases (e.g., Delhi `MP-2026-0842` and UP `MP-2026-0914` with a 94% match) across shared burner phones, vehicles, and transit corridors.
+![Pattern Discovery](screenshots/pattern_discovery.png)
+
+---
+
+### 5. Suspect & Entity Connection Graph
+Interactive React Flow network mapping cases, suspects, intermediaries, burner SIMs, vehicles, and transit nodes with edge evidence inspection.
+![Suspect Graph](screenshots/suspect_graph.png)
+
+---
+
+### 6. CCTV Video Intelligence & ANPR Workspace
+Video scrub bar with detection bookmarks, bounding box facial matching against reference photographs, and ANPR plate recognition.
+![Video Intelligence](screenshots/video_intel.png)
+
+---
+
+### 7. Dedicated Family Member Portal
+Calm, dignified portal for verified relatives displaying approved public milestones, secure investigating officer Q&A, and lead submission.
+![Family Portal](screenshots/family_portal.png)
+
+---
+
 ## 1. Project Overview
 
 **NEXUS / Nextrace** is a modern, professional, full-stack intelligence platform engineered for law enforcement personnel, Anti-Human Trafficking Units (AHTU), and supervisory authorities.
