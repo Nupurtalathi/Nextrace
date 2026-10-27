@@ -3,6 +3,11 @@
 > **AI-Assisted Investigation & Cross-Jurisdiction Intelligence System**  
 > *Notice: Demonstration environment — all case records, personal identities, FIRs and surveillance feeds are synthetic.*
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FNupurtalathi%2FNextrace)
+
+🌐 **Live Vercel URL**: [https://spry-bugle-7k8tmo1.tmp.now](https://spry-bugle-7k8tmo1.tmp.now)  
+🔗 **Claim Deployment to Your Vercel Account**: [https://vercel.com/claim-deployment?code=2fbb5e29-2e50-4145-95c8-ef2985b0d055](https://vercel.com/claim-deployment?code=2fbb5e29-2e50-4145-95c8-ef2985b0d055)
+
 ---
 
 ## 📸 Application Screenshots
@@ -77,6 +82,7 @@ The platform helps authorized police personnel:
 - **Geospatial Mapping**: Leaflet with OpenStreetMap
 - **Connection Graph**: React Flow (`reactflow`)
 - **State Management**: Reactive Context with persistent local storage and append-only audit trail
+- **Deployment**: Vercel (`vercel.json`)
 
 ---
 
@@ -120,7 +126,7 @@ NEXUS enforces a role-based access model across 5 authorized tiers:
 - Node.js (v18+ recommended)
 - npm or yarn
 
-### Installation
+### Installation & Local Run
 
 ```bash
 # Clone the repository
